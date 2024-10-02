@@ -1,3 +1,3 @@
 Git Tutorial 
 Max Lacombe
-UChicago 
+UChicago Student Resource Guide
